@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibnbasheer
+- 👋 Hi, I’m @mrfattaah 
 - 👀 I’m interested in Full stack Web and App Development
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on any cool project...I'll be a good team player😎✌️

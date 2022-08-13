@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrfattaah 
-- 👀 I’m interested in Full stack Web and App Development
+- 👀 I’m interested in; Web/Android Dev(Full stack) | DevOps | Linux 
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on any cool project...I'll be a good team player😎✌️
 - 📫 How to reach me...Reach me by email via abdulfattahedos1000@gmail.com 

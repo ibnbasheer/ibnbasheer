@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrfattaah 
 - 👀 I’m interested in; Web/Android Dev(Full stack) | DevOps | Linux 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning bash scripting and C
 - 💞️ I’m looking to collaborate on any cool project...I'll be a good team player😎✌️
 - 📫 How to reach me...Reach me by email via abdulfattahedos1000@gmail.com 
 - and on twitter via twitter.com/mrfattaah 
